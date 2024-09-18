@@ -60,6 +60,5 @@ Create a user that has access key and secret key. We use GitHub secrets to store
 
 We run all on GitHub actions you can see all goes thru and passes. We then got a nice test report that shows our unit tests and our integration test results and in AWS  the image uploaded successfully.
 
-![image](https://github.com/user-attachments/assets/1dbb8c1f-d3cb-4dbb-8e15-524a90161fc0)
 
 ![image](https://github.com/user-attachments/assets/c5b9fc41-e993-4b04-bc06-1c1c6caffead)
